@@ -1,7 +1,3 @@
-/**
- * Created by michaelbrett on 23/01/15.
- */
-
 var fs = require('fs');
 
 
