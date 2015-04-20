@@ -1,2 +1,4 @@
 .idea/
 node_modules/
+through2-map/
+npm-debug.log
